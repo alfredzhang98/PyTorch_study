@@ -3,3 +3,11 @@
 **/__pycache__/
 **/.DS_Store
 **/ckpts/
+**/logs/
+
+multi_cased_L-12_H-768_A-12/
+# zip
+**/*.zip
+**/*.tar.gz
+**/*.tar
+**/*.gz
